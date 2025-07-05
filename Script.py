@@ -3,27 +3,23 @@
 # Ask Doubt on telegram @KingVJ01
 
 class script(object):
-    START_TXT = u"""
-<b>Hey 👋 {}🤩</b>
+    START_TXT = """<b>Hey 👋 {}🤩</b>
 
-<b>🍿 Wᴇʟᴄᴏᴍᴇ Tᴏ Tʜᴇ Wᴏʀʟᴅ's Cᴏᴏʟᴇsᴛ Sᴇᴀʀᴄʜ Eɴɢɪɴᴇ!</b>
+<b>🍿 Wᴇʟᴄᴏᴍᴇ Tᴏ Tʜᴇ Wᴏʀʟᴅ&apos;s Cᴏᴏʟᴇsᴛ Sᴇᴀʀᴄʜ Eɴɢɪɴᴇ!</b>
 
 <b>Here You Can Request Movie's, Just Sent</b>
 <b>Movie OR WebSeries Name With Proper</b>
-<b><a href='https://www.google.com/'>Google</a> Spelling..!!</b>
-"""
+<b><a href='https://www.google.com/'>Google</a> Spelling..!!</b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
-START_TXT = u"""
-<b>Hey 👋 {}🤩</b>
+START_TXT = """<b>Hey 👋 {}🤩</b>
 
-<b>🍿 Wᴇʟᴄᴏᴍᴇ Tᴏ Tʜᴇ Wᴏʀʟᴅ's Cᴏᴏʟᴇsᴛ Sᴇᴀʀᴄʜ Eɴɢɪɴᴇ!</b>
+<b>🍿 Wᴇʟᴄᴏᴍᴇ Tᴏ Tʜᴇ Wᴏʀʟᴅ&apos;s Cᴏᴏʟᴇsᴛ Sᴇᴀʀᴄʜ Eɴɢɪɴᴇ!</b>
 
 <b>Here You Can Request Movie's, Just Sent</b>
 <b>Movie OR WebSeries Name With Proper</b>
-<b><a href='https://www.google.com/'>Google</a> Spelling..!!</b>
-"""
+<b><a href='https://www.google.com/'>Google</a> Spelling..!!</b>"""
     
     HELP_TXT = """<b>ʜᴇʟʟᴏ {}
 ʜᴇʀᴇ ɪs ᴀʟʟ ᴍʏ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇs.</b>"""
